@@ -1,0 +1,2 @@
+# tuzzer
+Fuzzer for Tarantool
